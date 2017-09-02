@@ -1,2 +1,2 @@
 # Fukkit (F-oo-kkit)
-100% Fukkit Based Software. No Lag. No Problems
+100% Fukkit Based Software. No Software. No Problems
